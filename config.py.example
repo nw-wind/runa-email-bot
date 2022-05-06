@@ -1,0 +1,7 @@
+import logging
+token = "токен-бота=телеги"
+group_id = "группа, куда писать"
+imap_server = "imap.yandex.ru"
+imap_login = "усер"
+imap_password = "пароль"
+log_level = logging.INFO
