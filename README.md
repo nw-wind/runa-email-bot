@@ -9,6 +9,14 @@ source ./venv/bin/activate
 pip3 install imapclient requests
 ```
 
+В винде что-то типа:
+```
+pip3 install virtualenv
+pip3 -m vertualenv venv
+venv/bin/activate.bat
+pip3 install imapclient requests
+```
+
 Для запуска надо:
 
 ```
